@@ -1,0 +1,21 @@
+{
+    "name": "HELPA",
+    "symbol": "$HELPA",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "HELPA token powers a real-time collaborative ecosystem where community members are instantly rewarded for their participation.",
+    "website": "https://helpadeal.com",
+    "explorer": "https://bscscan.com/token/0x027bb160C85fd77c88E0fc3a8D0423E5D88e1A97",
+    "status": "active",
+    "id": "0x027bb160C85fd77c88E0fc3a8D0423E5D88e1A97",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/HelpaDeal"
+        },
+        {
+            "name": "website",
+            "url": "https://helpadeal.com"
+        }
+    ]
+}
