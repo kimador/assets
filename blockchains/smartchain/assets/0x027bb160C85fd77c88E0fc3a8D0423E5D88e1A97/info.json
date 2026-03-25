@@ -1,0 +1,11 @@
+{
+    "name": "HELPA",
+    "website": "https://helpadeal.com",
+    "description": "HELPA token on BNB Smart Chain.",
+    "explorer": "https://bscscan.com/token/0x027bb160C85fd77c88E0fc3a8D0423E5D88e1A97",
+    "type": "BEP20",
+    "symbol": "HELPA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x027bb160C85fd77c88E0fc3a8D0423E5D88e1A97"
+}
